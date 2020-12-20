@@ -1,3 +1,3 @@
 Well...
 
-There will be two TG-bots, one of them is already here
+There will be two TG-bots, one of them is already here (upd. i delete it)
