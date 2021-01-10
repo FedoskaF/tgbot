@@ -1,3 +1,4 @@
 Well...
 
-There will be two TG-bots, one of them is already here (upd. i delete it)
+Первый бот - телеграм-бот мини-калькулятор
+Второй бот - бот для ВК, хранящий информацию по учёбе
